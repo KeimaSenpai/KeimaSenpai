@@ -1,6 +1,11 @@
 ### Holaaaa 👋
 
-Soy Diseñador y Desarrollador de Server de Minecraft y aprendiz de Python y HTML CCS
+<div align="left">
+  <p><a href="https://youtube.com/channel/UCgHO7K8MCGOFDsK_WTr5vdQ?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/0G9OdPS_gSU?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a></p>
+
+Soy Diseñador YouTuber y Desarrollador de Server de Minecraft y aprendiz de Python y HTML CCS
 
 
 🛠️ Actualmente estoy trabajando en:
