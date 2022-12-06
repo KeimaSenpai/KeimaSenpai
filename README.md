@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCgHO7K8MCGOFDsK_WTr5vdQ?label=Subcriptores&style=social" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KeimaSenpai&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
+
 <h3 align="left">
   Soy Diseñador YouTuber y Desarrollador de Server de Minecraft y aprendiz de Python y HTML CCS
 
