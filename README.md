@@ -35,7 +35,8 @@ Soy Diseñador YouTuber y Desarrollador de Server de Minecraft y aprendiz de Pyt
 <summary><i>más detalles</i></summary>
   
 <h2>Link de mis redes Sociales</h2>
-
+---
+  ---
 <p><a href="https://keima-senpai.vercel.app/"> <img src="https://user-images.githubusercontent.com/98184310/203803457-ba91f073-fe62-46e0-93d5-83ea56cc2270.png" width="100""/></a></p>
 
 </details>
