@@ -2,6 +2,7 @@
   <b>X Corporations</b>
 </h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vasusen-code&label=Profile%20views&color=E95420&style=flat-square" alt="Vasusen" /> </p>
 
 <div align="left">
   <p><a href="https://youtube.com/channel/UCgHO7K8MCGOFDsK_WTr5vdQ?sub_confirmation=1">
