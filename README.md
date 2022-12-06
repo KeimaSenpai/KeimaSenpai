@@ -10,20 +10,20 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCgHO7K8MCGOFDsK_WTr5vdQ?label=Subcriptores&style=social" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KeimaSenpai&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>
+<h3 align="left">
+  Soy Diseñador YouTuber y Desarrollador de Server de Minecraft y aprendiz de Python y HTML CCS
 
-Soy Diseñador YouTuber y Desarrollador de Server de Minecraft y aprendiz de Python y HTML CCS
 
+  🛠️ Actualmente estoy trabajando en:
+  - Sworld Craft Online
+  - X Minecraft Bot
 
-🛠️ Actualmente estoy trabajando en:
-- Sworld Craft Online
-- X Minecraft Bot
-
-📚 Conocimientos:
-- Python
-- Minecraft Server
-- HTML
-- Diseño
-
+  📚 Conocimientos:
+  - Python
+  - Minecraft Server
+  - HTML
+  - Diseño
+</h3>
 <h1>🏆 Github Profile Trophy 🏆</h1>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=KeimaSenpai&column=5&margin-w=15&margin-h=15&theme=discord&&no-frame=true"
 
