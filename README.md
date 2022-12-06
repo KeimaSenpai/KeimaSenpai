@@ -6,6 +6,9 @@
 
 <p><a href="https://t.me/KeimaSenpai_oficial"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" width="100""/></a></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KeimaSenpai&show_icons=true&theme=midnight-purple&locale=en" alt="vasusen-code" /></p>  
+  
+  
 <div align="left">
   <p><a href="https://youtube.com/channel/UCgHO7K8MCGOFDsK_WTr5vdQ?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCgHO7K8MCGOFDsK_WTr5vdQ?label=Subcriptores&style=social" />
