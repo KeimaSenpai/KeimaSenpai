@@ -46,10 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KeimaSenpai/KeimaSenpai/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/KeimaSenpai/count.svg?"  />
 </div>
