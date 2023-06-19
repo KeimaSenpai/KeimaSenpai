@@ -1,7 +1,8 @@
-## 💻 Desarrollo de software
-- Desarrollo de aplicaciones de escritorio
-- Desarrollo de sitios web
-- Desarrollo de sistemas web
+## 💻 Creación de server Minecraft
+- Configuración de plugins.
+- Optimización de server.
+- Diseñador y creador de TexturePack Custom.
 
-## 🔧 Personalización de software
-- Personalización de aplicaciones existentes
+## 💻 Desarrollo de software
+- Desarrollo de aplicaciones de escritorio.
+- Desarrollo de sitios web.
