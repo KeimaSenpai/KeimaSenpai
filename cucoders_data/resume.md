@@ -1,25 +1,10 @@
 ## 💼 Perfil profesional
-Breve descripción de su experiencia y objetivos profesionales.
+No soy graduado de programación pero si e tomado cursos y he estado aprendiendo a lo largo de todo este tiempo. Ya llevo estudiando y aprendiendo Python CSS HTML.
 
-## 🎓 Educación
-
-### Universidad, Ciudad
-- Titulo obtenido, año de graduación
-- Breve descripción de materias y proyecto final
-
-### Universidad, Ciudad
-- Titulo obtenido, año de graduación
-- Breve descripción de materias y proyecto final
 
 ## 💼 Experiencia laboral
+En estos momentos me dedico en la creacion de server de Minecraft y paginas web. En el contenido de Minecraft ya llevo más de 5 años creando server.
 
-### Empresa, Ciudad
-- Puesto, años de experiencia
-- Descripción detallada de responsabilidades y logros
-
-### Empresa, Ciudad
-- Puesto, años de experiencia
-- Descripción detallada de responsabilidades y logros
 
 ## 💻 Habilidades
 
@@ -29,6 +14,9 @@ Breve descripción de su experiencia y objetivos profesionales.
 
 ## 🌎 Idiomas
 
-- Básico
+- Ingles Básico
 
 ## 🔗 Referencias disponibles a petición
+
+Mi server de Minecraft
+https://t.me/SCO_Oficial
