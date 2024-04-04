@@ -32,5 +32,10 @@ Soy programador si no no estuviera en GitHub jajaja. Aunque estoy aprendiendo ya
 
 ### My Latest YouTube Videos 🌱
 <!-- YOUTUBE:START -->
+- [Beginner&#39;s guide to Hacktoberfest 2021 ](https://www.youtube.com/watch?v=xBPFzXa9Fio)
+- [What is Hacktoberfest? Hacktoberfest 101](https://www.youtube.com/watch?v=N7mCkGjX6vk)
+- [GitHub Copilot: All you need to know ](https://www.youtube.com/watch?v=RZmp6IPN0xw)
+- [What is an API ? API for beginners ](https://www.youtube.com/watch?v=NHVQiDDZ5TA)
+- [71A Way too long words ](https://www.youtube.com/watch?v=hYIzUt9mvRQ)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/c/AyushiRawat)
