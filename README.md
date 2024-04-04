@@ -26,12 +26,9 @@ Soy programador si no no estuviera en GitHub jajaja. Aunque estoy aprendiendo ya
 - Creación de app de escritorio
 - Cear una web, landing page o encommerse
 
-<<<<<<< HEAD
 <!-- YOUTUBE:START -->
-
 <!-- YOUTUBE:END -->
-=======
+
 <div align="center">
     <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/660b945bda1671f986fd3d50?variant=dark" alt="roadmap.sh"/></a>
 </div>
->>>>>>> ad66ea8ec66492fed8ed619e242198bbc38a46f4
