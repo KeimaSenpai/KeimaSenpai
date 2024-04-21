@@ -39,3 +39,7 @@ Soy programador si no no estuviera en GitHub jajaja. Aunque estoy aprendiendo ya
 - [Creando un SERVER de MINECRAFT desde 0 [ Configuración y Optimización ]](https://www.youtube.com/watch?v=6WDioOgCmas)
 <!-- YOUTUBE:END -->
 ➡️ [Más vídeos...](https://www.youtube.com/@KeimaSenpaiYT)
+
+<div align="center">
+    <a href="https://app.daily.dev/keimasenpai"><img src="https://api.daily.dev/devcards/v2/6cjMpQzvs9Y0GL0tJCpAO.png?type=wide&r=iyy" width="652" alt="Keima Senpai's Dev Card"/></a>
+</div>
