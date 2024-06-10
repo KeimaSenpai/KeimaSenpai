@@ -16,7 +16,7 @@ Soy programador si no no estuviera en GitHub jajaja. Aunque estoy aprendiendo ya
 
 - Python 2 años
 - Django 5 meses
-- Flet 1 mes
+- Flet 5 mes
 - Astro 2 mese
 
 ### 💼Los trabajos que acepto son:
