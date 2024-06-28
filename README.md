@@ -14,10 +14,10 @@ Soy programador si no no estuviera en GitHub jajaja. Aunque estoy aprendiendo ya
 
 ### 👨🏻‍💻Las tecnologías que domino son:
 
-- Python 2 años
+- Python 3 años
 - Django 5 meses
-- Flet 5 mes
-- Astro 2 mese
+- Flet 8 meses
+- Astro 2 meses
 
 ### 💼Los trabajos que acepto son:
 
