@@ -36,7 +36,7 @@ Soy programador si no no estuviera en GitHub jajaja. Aunque estoy aprendiendo ya
 - [Películas y series en Telegram](https://www.youtube.com/watch?v=YYx0Q2TwRvc)
 - [Servicio de Descargas Gratis en CUBA](https://www.youtube.com/watch?v=YztcnMQkv7E)
 - [CREA TU PROPIO LAUNCHER de MINECRAFT](https://www.youtube.com/watch?v=5FmjSubDRyw)
-- [Tengo nuevo video sobre nueva actualización del X Minecraft Launcher #minecraft #launchers](https://www.youtube.com/watch?v=j0BC_Xdkrow)
+- [Tengo nuevo video sobre nueva actualización del X Minecraft Launcher #minecraft #launchers](https://www.youtube.com/shorts/j0BC_Xdkrow)
 <!-- YOUTUBE:END -->
 ➡️ [Más vídeos...](https://www.youtube.com/@KeimaSenpaiYT)
 
